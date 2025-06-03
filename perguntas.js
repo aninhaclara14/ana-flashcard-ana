@@ -8,4 +8,9 @@ criaCartao(
     'Qual é o tempo de gestação de uma leoa',
     'Entre 4 e 5 meses'
 )
+criaCartao(
+    'Animais',
+    'Qual é o maior animal do mundo?',
+    'Baleia Azul'
+)
 
